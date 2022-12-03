@@ -2,7 +2,8 @@
 - 👀 I’m interested in iOS development, cloud technologies, and making cool things!
 - 🌱 I’m currently learning more about Swift and the UI Kit and SwiftUI frameworks. I also eager to learn more about cloud technologies!
 - 💞️ I’m looking to collaborate on other public source and iOS projects.
-- 📫 How to reach me ... Linkedin - https://www.linkedin.com/in/gianrobert-pinto/ 
+- 📫 How to reach me 
+Linkedin - https://www.linkedin.com/in/gianrobert-pinto/ 
 
 
 
