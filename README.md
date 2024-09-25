@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Gian! - @pintgia
-- 👀 I’m interested in iOS development, cloud technologies, and making cool things!
-- 🌱 I’m currently learning more about Swift and the UI Kit and SwiftUI frameworks. I also eager to learn more about cloud technologies!
-- 💞️ I’m looking to collaborate on other public source and iOS projects.
+- 🌱 I’m currently learning more about Swift and the SwiftUI framework. I am also eager to learn more about cloud technologies!
+- 💞️ I’m looking to collaborate on other public sources and iOS projects.
 - 📫 How to reach me:  
 Linkedin - https://www.linkedin.com/in/gianrobert-pinto/ 
 
